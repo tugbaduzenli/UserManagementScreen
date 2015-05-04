@@ -1,2 +1,4 @@
 # UserManagementScreen
-This repo contains of spring mvc with mongodb crud example.
+
+This repo contains of Spring MVC with MongoDb CRUD example.
+
